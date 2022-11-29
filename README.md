@@ -1,4 +1,40 @@
-# Store
+<h1 align="center">Simple E-Commerce-Store</h1>
+
+## Usage 💻
+
+App can be viewed at - [Vercel](https://e-commerce-store-psi.vercel.app) 🔗
+
+## Tech Stack 🧩
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<br/>
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2020/02/angular-material-logo.jpg" width="150" height="40" />
+
+<br/>
+
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+
+<br/>
+
+FakeStoreApi
+
+<br/>
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Contributing
+
+:octocat: [Daniel A](https://github.com/dannyyyspam)
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
