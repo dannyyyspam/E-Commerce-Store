@@ -1,5 +1,7 @@
 <h1 align="center">Simple E-Commerce-Store</h1>
 
+<h2 align="center">This project was made for portfolio and practice purposes only</h2>
+
 ## Usage 💻
 
 App can be viewed at - [Vercel](https://e-commerce-store-psi.vercel.app) 🔗
